@@ -1,5 +1,5 @@
-# Unciv-mod-example
+# Unciv-mod-More-Wonders
 
-An example mod for Unciv, that adds one new Civilization.
+add many amount of Wonder to The Game
 
 For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
