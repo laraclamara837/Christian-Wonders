@@ -1,25 +1,36 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "The Pantheon",
+		"cost": 185,
+		"culture": 3,
+		"faith": 6,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 1},
+                "uniques": ["Free [Great Prophet] appears [in this city]"],
+		"requiredTech": "Mathematics",
+		"quote": "'With every refinement the restored the pantheon worn by age.' - Septimius Severus and Caracalla"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
+		"name": "The Potala Palace",
+		"cost": 500,
+		"culture": 2,
+		"faith": 6,
+		"happiness": 3,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Prophet": 2},
+                "uniques": ["Must have an owned [Mountain] within [2] tiles","[3] free [Missionary] units appear [in this city]"],
+		"requiredTech": "Astronomy",
+		"quote": "'The first time I stepped onto the rooftop of the Potala Palace, I felt, as never before or since, as if I were stepping onto the rooftop of my being: onto some dimension of consciousness that I’d never visited before.' - Pico Iyer"
+	},
+	{
+	        "name": "St. Peter Basilica",
+		"cost": 500,
+		"faith": 8,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Artist": 1},
+                "uniques": ["Gain a free [Cathedral] [in this city]","[+2 Faith] <after adopting [Piety]>","[+2 Faith] <after adopting [Free Religion]>",
+			"[+2 Faith] <after adopting [Mandate Of Heaven]>","[+2 Faith] <after adopting [Organized Religion]>","[+2 Faith] <after adopting [Reformation]>","[+2 Faith] <after adopting [Theocracy]>"],
+		"requiredTech": "Acoustics",
+		"quote": "'From the dome of St. Peter's one can see every notable object in Rome... He can see a panorama that is varied, extensive, beautiful to the eye, and more illustrious in history than any other in Europe.' - Mark Twain"
+	},
 ]
