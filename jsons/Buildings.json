@@ -135,7 +135,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
                 "uniques": ["[+2 Food] from every [Farm] [in this city]","Must have an owned [Flood plains] within [2] tiles"],
-		"requiredTech": "Agriculture",
+		"requiredTech": "Pottery",
 		"quote": "'Yet in this captious and intenible sieve I still pour in the waters of my love And lack not to lose still: thus, Indian-like,Religious in mine error, I adore The sun, that looks upon his worshipper, But knows of him no more.' - William Shakespeare"
 	},
 ]
