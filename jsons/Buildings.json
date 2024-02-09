@@ -46,4 +46,15 @@
 		"requiredTech": "Writing",
 		"quote": "'My name is Ozymandias, king of kings: Look on my works, ye Mighty, and despair!' - Percy Bysshe Shelley"
 	},
+	{
+		"name": "Bolshoi Theatre",
+		"cost": 185,
+		"culture": 8,
+		"happiness": 6,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Artist": 3},
+                "uniques": ["Gain a free [Hermitage] [in this city]"],
+		"requiredTech": "Electricity",
+		"quote": "'Bolshoi Ballet is a universe of the imagination, a place of magic and enchantment, beauty and romance. Its many worlds vibrate with graceful dancers, glorious music, and sumptuous costumes.' - Trudy Garfunkel"
+	},
 ]
