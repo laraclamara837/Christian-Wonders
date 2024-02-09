@@ -34,4 +34,16 @@
 		"requiredTech": "Acoustics",
 		"quote": "'From the dome of St. Peter's one can see every notable object in Rome... He can see a panorama that is varied, extensive, beautiful to the eye, and more illustrious in history than any other in Europe.' - Mark Twain"
 	},
+	{
+		"name": "Abu Simbel",
+		"cost": 185,
+		"production": 4,
+		"faith": 3,
+		"happiness": 2,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 1},
+                "uniques": [""],
+		"requiredTech": "Writing",
+		"quote": "'With every refinement the restored the pantheon worn by age.' - Septimius Severus and Caracalla"
+	},
 ]
