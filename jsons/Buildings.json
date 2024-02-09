@@ -88,7 +88,7 @@
 		"faith": 8,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
-                "uniques": ["Free [Great Prophet] appears [in this city]","[+2 Faith] from each Trade Route","Hidden when religion is disabled"],
+                "uniques": ["","Free [Great Prophet] appears [in this city]","[+2 Faith] from each Trade Route","Hidden when religion is disabled"],
 		"requiredTech": "Construction",
 		"quote": "'The destruction of the Bamyan Buddhas will not destroy the spirit of Buddhism - this will last forever. But the destruction of the statues will be a dark spot on the face of humanity and it is up to us to make sure that no more destruction happens.' - The Dalai Lama"
 	}
@@ -103,5 +103,17 @@
                 "uniques": ["Free [Great Prophet] appears [in this city]","[+1 Culture] per [2] population [in this city]","Hidden when religion is disabled"],
 		"requiredTech": "Architecture",
 		"quote": "'Santa Maria del Fiore is a magnificent work of art. To see its dome, and stand within its vast interior is a humbling and moving experience. The scale and beauty of the building convey a sense of the sublime, and leave one in awe of what human beings can achieve when guided by a sense of purpose, and inspired by a vision of the divine.' - David Starkey"
+	},
+	
+	{
+		"name": "Santa Maria delle Grazie",
+		"cost": 500,
+		"happiness": 6,
+		"faith": 2,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Artist": 1},
+                "uniques": ["Must have an owned [Mountain] within [2] tiles","Free [Great Prophet] appears [in this city]","Hidden when religion is disabled"],
+		"requiredTech": "Printing Press",
+		"quote": "'Santa Maria delle Grazie is a treasure trove of art and history. The church is steeped in tradition and has been a center of pilgrimage and devotion in Milan for centuries. The mural 'The Last Supper' is just one of the many works of art that can be found within its walls. I was moved by the beauty and power of the painting, and by the significance of its place within the broader history of Italy and the church.' - Michelle Obama"
 	},
 ]
