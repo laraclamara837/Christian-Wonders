@@ -100,8 +100,8 @@
 		"faith": 5,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
-                "uniques": ["Free [Great Prophet] appears [in this city]","","Hidden when religion is disabled"],
+                "uniques": ["Free [Great Prophet] appears [in this city]","[+1 Culture] per [2] population [in this city]","Hidden when religion is disabled"],
 		"requiredTech": "Architecture",
-		"quote": "'With every refinement the restored the pantheon worn by age.' - Septimius Severus and Caracalla"
+		"quote": "'Santa Maria del Fiore is a magnificent work of art. To see its dome, and stand within its vast interior is a humbling and moving experience. The scale and beauty of the building convey a sense of the sublime, and leave one in awe of what human beings can achieve when guided by a sense of purpose, and inspired by a vision of the divine.' - David Starkey"
 	},
 ]
