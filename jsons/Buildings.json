@@ -123,8 +123,8 @@
 		"faith": 6,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
-                "uniques": ["Free [Great Prophet] app ears [in this city]","[+10]% [Faith]","Hidden when religion is disabled"],
+                "uniques": ["Free [Great Prophet] [in this city]","[+10]% [Faith] [in all cities]","Hidden when religion is disabled"],
 		"requiredTech": "Archeology",
-		"quote": "'With every refinement the restored the pantheon worn by age.' - Septimius Severus and Caracalla"
+		"quote": "'Wat Pho is an incredible example of the beauty and reverence of Buddhist architecture and art. The massive reclining Buddha statue is a true marvel of engineering and craftsmanship, and the temple itself is a true testament to the power of religious devotion. The experience of visiting Wat Pho was truly unforgettable, and I hope that others will have the opportunity to visit the temple and experience its beauty for themselves.' - Richard Branson"
 	},
 ]
