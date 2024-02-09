@@ -81,4 +81,15 @@
 		"requiredTech": "Philosophy",
 		"quote": "'The only place where one can go to experience the presence of God is Mount Sinai: here is where Moses received the tablets of the law, here is where the cloud rested on the Mount, here is where the fire spoke and the God of Israel was heard talking to Moses; the entire history of Israel begins at Sinai; if we seek to find God here in Sinai, what are we looking for? What we seek is the same God that Moses met on top of this mountain in the fire and the cloud. We are looking for the same God that spoke to Moses, the same God that led the people of Israel through the Red Sea and to the other side of the Jordan.' - Hans Küng"
 	},
+	{
+		"name": "Buddha's Of Bamyan",
+		"cost": ,
+		"culture": 2,
+		"faith": 8,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 1},
+                "uniques": ["Free [Great Prophet] appears [in this city]","","Hidden when religion is disabled"],
+		"requiredTech": "Construction",
+		"quote": "'With every refinement the restored the pantheon worn by age.' - Septimius Severus and Caracalla"
+	},
 ]
