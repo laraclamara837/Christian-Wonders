@@ -116,4 +116,15 @@
 		"requiredTech": "Printing Press",
 		"quote": "'Santa Maria delle Grazie is a treasure trove of art and history. The church is steeped in tradition and has been a center of pilgrimage and devotion in Milan for centuries. The mural 'The Last Supper' is just one of the many works of art that can be found within its walls. I was moved by the beauty and power of the painting, and by the significance of its place within the broader history of Italy and the church.' - Michelle Obama"
 	},
+	{
+		"name": "Wat Pho",
+		"cost": 750,
+		"culture": 2,
+		"faith": 6,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 1},
+                "uniques": ["Free [Great Prophet] app ears [in this city]","[+10]% [Faith]","Hidden when religion is disabled"],
+		"requiredTech": "Archeology",
+		"quote": "'With every refinement the restored the pantheon worn by age.' - Septimius Severus and Caracalla"
+	},
 ]
