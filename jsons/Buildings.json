@@ -88,7 +88,7 @@
 		"faith": 8,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
-                "uniques": ["","Free [Great Prophet] appears [in this city]","[+2 Faith] from each Trade Route","Hidden when religion is disabled"],
+                "uniques": ["","Free [Great Prophet] appears [in this city]","[+2 Faith] from each Trade Route","Hidden when religion is disabled","Must have an owned [Mountain] within [2] tiles"],
 		"requiredTech": "Construction",
 		"quote": "'The destruction of the Bamyan Buddhas will not destroy the spirit of Buddhism - this will last forever. But the destruction of the statues will be a dark spot on the face of humanity and it is up to us to make sure that no more destruction happens.' - The Dalai Lama"
 	}
@@ -127,4 +127,15 @@
 		"requiredTech": "Archaeology",
 		"quote": "'Wat Pho is an incredible example of the beauty and reverence of Buddhist architecture and art. The massive reclining Buddha statue is a true marvel of engineering and craftsmanship, and the temple itself is a true testament to the power of religious devotion. The experience of visiting Wat Pho was truly unforgettable, and I hope that others will have the opportunity to visit the temple and experience its beauty for themselves.' - Richard Branson"
 	}
+	{
+		"name": "Great Bath",
+		"cost": 185,
+		"culture": 3,
+		"happiness": 6,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 1},
+                "uniques": ["[+2 Food] from every [Farm] [in this city]","Must have an owned [Flood plains] within [2] tiles"],
+		"requiredTech": "Agriculture",
+		"quote": "'Yet in this captious and intenible sieve I still pour in the waters of my love And lack not to lose still: thus, Indian-like,Religious in mine error, I adore The sun, that looks upon his worshipper, But knows of him no more.' - William Shakespeare"
+	},
 ]
