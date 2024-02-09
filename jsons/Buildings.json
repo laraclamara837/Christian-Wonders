@@ -28,7 +28,7 @@
 		"faith": 8,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
-		"uniqueText": ["Gain a free Cathedral in this city","+2 Faith after adopting Piety and All it's Policy's Branches"],
+		"uniqueText": ["Gain a free [Cathedral] in this city","[+2 Faith] <after adopting [Piety] and [All] it's Policy's Branches>"],
                 "uniques": ["Gain a free [Cathedral] [in this city]","[+2 Faith] <after adopting [Piety]>","[+2 Faith] <after adopting [Free Religion]>",
 			"[+2 Faith] <after adopting [Mandate Of Heaven]>","[+2 Faith] <after adopting [Organized Religion]>","[+2 Faith] <after adopting [Reformation]>","[+2 Faith] <after adopting [Theocracy]>"],
 		"requiredTech": "Acoustics",
