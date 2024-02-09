@@ -48,7 +48,7 @@
 	},
 	{
 		"name": "Bolshoi Theatre",
-		"cost": 185,
+		"cost": 750,
 		"culture": 8,
 		"happiness": 6,
 		"isWonder": true,
@@ -56,5 +56,17 @@
                 "uniques": ["Gain a free [Hermitage] [in this city]"],
 		"requiredTech": "Electricity",
 		"quote": "'Bolshoi Ballet is a universe of the imagination, a place of magic and enchantment, beauty and romance. Its many worlds vibrate with graceful dancers, glorious music, and sumptuous costumes.' - Trudy Garfunkel"
+	},
+	{
+		"name": "Mont St.Michel",
+		"cost": 400,
+		"culture": 5,
+		"faith": 4,
+		"science": 3,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Prophet": 1},
+                "uniques": ["Free [Great Prophet] appears [in this city]",""],
+		"requiredTech": "Education",
+		"quote": "'With every refinement the restored the pantheon worn by age.' - Septimius Severus and Caracalla"
 	},
 ]
