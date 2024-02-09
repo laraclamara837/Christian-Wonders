@@ -83,13 +83,25 @@
 	},
 	{
 		"name": "Buddha's Of Bamyan",
-		"cost": ,
+		"cost": 250,
 		"culture": 2,
 		"faith": 8,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
-                "uniques": ["Free [Great Prophet] appears [in this city]","","Hidden when religion is disabled"],
+                "uniques": ["Free [Great Prophet] appears [in this city]","[+2 Faith] from each Trade Route","Hidden when religion is disabled"],
 		"requiredTech": "Construction",
+		"quote": "'The destruction of the Bamyan Buddhas will not destroy the spirit of Buddhism - this will last forever. But the destruction of the statues will be a dark spot on the face of humanity and it is up to us to make sure that no more destruction happens.' - The Dalai Lama"
+	}
+	{
+		"name": "Santa Maria Del Fiore",
+		"cost": 625,
+		"culture": 3,
+		"happiness": 2,
+		"faith": 5,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 1},
+                "uniques": ["Free [Great Prophet] appears [in this city]","","Hidden when religion is disabled"],
+		"requiredTech": "Architecture",
 		"quote": "'With every refinement the restored the pantheon worn by age.' - Septimius Severus and Caracalla"
 	},
 ]
