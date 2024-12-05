@@ -44,7 +44,7 @@
 		"gold": 10,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
-                "uniques": ["Gain a free [Cathedral] in this city","[+37]% Yield from every [Holy site]","Only available <when religion is enabled>"],
+                "uniques": ["Gain a free [Cathedral] in this city", "[+10 Culture, +10 Happiness] [in capital]", "[+37]% Yield from every [Holy site]", "Only available <when religion is enabled>"],
 		"requiredTech": "Plastics",
 		"quote": "'My name is Ozymandias, king of kings: Look on my works, ye Mighty, and despair!' - Percy Bysshe Shelley"
 	},
