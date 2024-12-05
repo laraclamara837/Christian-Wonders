@@ -31,7 +31,7 @@
 		"faith": 8,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
-                "uniques": ["Gain a free [Cathedral] [in this city]", "[+2 Faith] <after adopting [Piety] and [All] it's Policy's Branches>","Only available <when religion is enabled>"],
+                "uniques": ["Gain a free [Cathedral] [in this city]", "[+2 Faith] <after adopting [Piety] and [All] it's Policy's Branches>","Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
 		"requiredTech": "Acoustics",
 		"quote": "'From the dome of St. Peter's one can see every notable object in Rome... He can see a panorama that is varied, extensive, beautiful to the eye, and more illustrious in history than any other in Europe.' - Mark Twain"
 	},
@@ -44,7 +44,7 @@
 		"gold": 10,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
-                "uniques": ["Gain a free [Cathedral] in this city", "[+10 Culture, +10 Happiness] [in capital]", "[+37]% Yield from every [Holy site]", "Only available <when religion is enabled>"],
+                "uniques": ["Gain a free [Cathedral] in this city", "[+10 Culture, +10 Happiness] [in capital]", "[+37]% Yield from every [Holy site]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
 		"requiredTech": "Plastics",
 		"quote": "'My name is Ozymandias, king of kings: Look on my works, ye Mighty, and despair!' - Percy Bysshe Shelley"
 	},
