@@ -13,14 +13,14 @@
 	},
 	{
 		"name": "Saint Mark's Basilica",
-		"cost": 500,
+		"cost": 300,
 		"culture": 5,
 		"faith": 5,
 		"happiness": 4,
 		"gold": 10,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
-                "uniques": ["","[3] free [Missionary] units appear [in this city]","Hidden when religion is disabled"],
+                "uniques": ["Gain [500] [Faith] <upon conquering a city>","Gain [900] [Gold] <upon conquering a city>","Only available <when religion is enabled>"],
 		"requiredTech": "Guilds",
 		"quote": "'The first time I stepped onto the rooftop of the Potala Palace, I felt, as never before or since, as if I were stepping onto the rooftop of my being: onto some dimension of consciousness that I’d never visited before.' - Pico Iyer"
 	},
