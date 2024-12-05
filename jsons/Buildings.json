@@ -7,7 +7,7 @@
 		"gold": 8,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
-                "uniques": ["Gain a free [Monastery] [in this city]","Must have an owned [Mount Sinai] within [8] tiles","[+2 Faith] from [Desert] tiles [in this city]","[+2 Gold, +2 Culture, +1 Faith] from every [Dyes] <in this city>","[+2 Gold, +2 Culture, +2 Faith] from every [Incense] <in this city>","[+1 Culture] per [3] population [in this city]","Only available <when religion is enabled>"],
+                "uniques": ["Gain a free [Monastery] [in this city]", "Must have an owned [Mount Sinai] within [8] tiles", "[+2 Faith] from [Desert] tiles [in this city]", "[+2 Gold, +2 Culture, +1 Faith] from every [Dyes] <in this city>", "[+2 Gold, +2 Culture, +2 Faith] from every [Incense] <in this city>", "[+1 Culture] per [3] population [in this city]", "Only available <when religion is enabled>"],
 		"requiredTech": "Theology",
 		"quote": "'The only place where one can go to experience the presence of God is Mount Sinai: here is where Moses received the tablets of the law, here is where the cloud rested on the Mount, here is where the fire spoke and the God of Israel was heard talking to Moses; the entire history of Israel begins at Sinai; if we seek to find God here in Sinai, what are we looking for? What we seek is the same God that Moses met on top of this mountain in the fire and the cloud. We are looking for the same God that spoke to Moses, the same God that led the people of Israel through the Red Sea and to the other side of the Jordan.' - Hans Küng"
 	},
@@ -17,12 +17,13 @@
 		"culture": 5,
 		"faith": 5,
 		"happiness": 4,
-		"gold": 10,
+		"gold": 11,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
-                "uniques": ["Gain [500] [Faith] <upon conquering a city>","Gain [900] [Gold] <upon conquering a city>","Only available <when religion is enabled>"],
+		"greatPersonPoints": {"Great Engineer": 1},
+                "uniques": ["Gain [500] [Faith] <upon conquering a city>", "Gain [900] [Gold] <upon conquering a city>", "Only available <when religion is enabled>"],
 		"requiredTech": "Guilds",
-		"quote": "'The first time I stepped onto the rooftop of the Potala Palace, I felt, as never before or since, as if I were stepping onto the rooftop of my being: onto some dimension of consciousness that I’d never visited before.' - Pico Iyer"
+		"quote": "'It is the most splendid city I have ever seen, and the one which governs itself the most wisely.' - Philippe de Commines"
 	},
 	{
 	        "name": "St. Peter Basilica",
@@ -30,22 +31,21 @@
 		"faith": 8,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
-		"uniqueText": ["Gain a free [Cathedral] in this city","[+2 Faith] <after adopting [Piety] and [All] it's Policy's Branches>"],
-                "uniques": ["Gain a free [Cathedral] [in this city]","[+2 Faith] <after adopting [Piety]>","[+2 Faith] <after adopting [Free Religion]>",
-			"[+2 Faith] <after adopting [Mandate Of Heaven]>","[+2 Faith] <after adopting [Organized Religion]>","[+2 Faith] <after adopting [Reformation]>","[+2 Faith] <after adopting [Theocracy]>","Hidden when religion is disabled"],
+                "uniques": ["Gain a free [Cathedral] in this city", "[+2 Faith] <after adopting [Piety] and [All] it's Policy's Branches>","Only available <when religion is enabled>"],
 		"requiredTech": "Acoustics",
 		"quote": "'From the dome of St. Peter's one can see every notable object in Rome... He can see a panorama that is varied, extensive, beautiful to the eye, and more illustrious in history than any other in Europe.' - Mark Twain"
 	},
 	{
-		"name": "Abu Simbel",
-		"cost": 185,
-		"production": 4,
-		"faith": 3,
-		"happiness": 2,
+		"name": "The Temple Of Saint Sava",
+		"cost": 1250,
+		"culture": 9,
+		"faith": 9,
+		"happiness": 9,
+		"gold": 10,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
-                "uniques": ["Must have an owned [Mountain] within [2] tiles","[+3 Production] from every [Wonder]"],
-		"requiredTech": "Writing",
+                "uniques": ["",""],
+		"requiredTech": "Plastics",
 		"quote": "'My name is Ozymandias, king of kings: Look on my works, ye Mighty, and despair!' - Percy Bysshe Shelley"
 	},
 	{
