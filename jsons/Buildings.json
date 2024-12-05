@@ -14,12 +14,13 @@
 	{
 		"name": "Saint Mark's Basilica",
 		"cost": 500,
-		"culture": 2,
-		"faith": 6,
-		"happiness": 3,
+		"culture": 5,
+		"faith": 5,
+		"happiness": 4,
+		"gold": 10,
 		"isWonder": true,
-		"greatPersonPoints": {"Great Prophet": 2},
-                "uniques": ["M","[3] free [Missionary] units appear [in this city]","Hidden when religion is disabled"],
+		"greatPersonPoints": {"Great Artist": 2},
+                "uniques": ["","[3] free [Missionary] units appear [in this city]","Hidden when religion is disabled"],
 		"requiredTech": "Guilds",
 		"quote": "'The first time I stepped onto the rooftop of the Potala Palace, I felt, as never before or since, as if I were stepping onto the rooftop of my being: onto some dimension of consciousness that I’d never visited before.' - Pico Iyer"
 	},
