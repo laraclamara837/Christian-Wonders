@@ -19,8 +19,8 @@
 		"happiness": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Prophet": 2},
-                "uniques": ["Must have an owned [Mountain] within [2] tiles","[3] free [Missionary] units appear [in this city]","Hidden when religion is disabled"],
-		"requiredTech": "Astronomy",
+                "uniques": ["M","[3] free [Missionary] units appear [in this city]","Hidden when religion is disabled"],
+		"requiredTech": "Guilds",
 		"quote": "'The first time I stepped onto the rooftop of the Potala Palace, I felt, as never before or since, as if I were stepping onto the rooftop of my being: onto some dimension of consciousness that I’d never visited before.' - Pico Iyer"
 	},
 	{
