@@ -9,7 +9,7 @@
 		"greatPersonPoints": {"Great Artist": 1},
                 "uniques": ["Gain a free [Monastery] [in this city]", "Must have an owned [Mount Sinai] within [8] tiles", "[+2 Faith] from [Desert] tiles [in this city]", "[+2 Gold, +2 Culture, +1 Faith] from every [Dyes] <in this city>", "[+2 Gold, +2 Culture, +2 Faith] from every [Incense] <in this city>", "[+1 Culture] per [3] population [in this city]", "Only available <when religion is enabled>"],
 		"requiredTech": "Theology",
-		"quote": "'The only place where one can go to experience the presence of God is Mount Sinai: here is where Moses received the tablets of the law, here is where the cloud rested on the Mount, here is where the fire spoke and the God of Israel was heard talking to Moses; the entire history of Israel begins at Sinai; if we seek to find God here in Sinai, what are we looking for? What we seek is the same God that Moses met on top of this mountain in the fire and the cloud. We are looking for the same God that spoke to Moses, the same God that led the people of Israel through the Red Sea and to the other side of the Jordan.' - Hans Küng"
+		"quote": "'The only place where one can go to experience the presence of God is Mount Sinai: here is where Moses received the tablets of the law, here is where the cloud rested on the Mount, here is where the fire spoke and the God of Israel was heard talking to Moses; the entire history of Israel begins at Sinai; if we seek to find God here in Sinai, what are we looking for? What we seek is the same God that Moses met on top of this mountain in the fire and the cloud. We are looking for the same God that spoke to Moses, the same God that led the people of Israel through the Red Sea and to the other side of the Jordan.' - Hans Küng",
 	},
 	{
 		"name": "Saint Mark's Basilica",
@@ -23,7 +23,7 @@
 		"greatPersonPoints": {"Great Engineer": 1},
                 "uniques": ["Gain a free [Cathedral] [in this city]", "Gain [350] [Faith] <upon conquering a city>", "Gain [900] [Gold] <upon conquering a city>", "Only available <when religion is enabled>"],
 		"requiredTech": "Guilds",
-		"quote": "'It is the most splendid city I have ever seen, and the one which governs itself the most wisely.' - Philippe de Commines"
+		"quote": "'It is the most splendid city I have ever seen, and the one which governs itself the most wisely.' - Philippe de Commines",
 	},
 	{
 	        "name": "Saint Peter's Basilica",
@@ -35,7 +35,7 @@
 		"greatPersonPoints": {"Great Artist": 1},
                 "uniques": ["Gain a free [Cathedral] [in this city]", "[+2 Faith] <after adopting [Piety] and [All] it's Policy's Branches>","Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
 		"requiredTech": "Acoustics",
-		"quote": "'From the dome of St. Peter's one can see every notable object in Rome... He can see a panorama that is varied, extensive, beautiful to the eye, and more illustrious in history than any other in Europe.' - Mark Twain"
+		"quote": "'From the dome of St. Peter's one can see every notable object in Rome... He can see a panorama that is varied, extensive, beautiful to the eye, and more illustrious in history than any other in Europe.' - Mark Twain",
 	},
 	{
 		"name": "The Temple Of Saint Sava",
@@ -48,7 +48,7 @@
 		"greatPersonPoints": {"Great Engineer": 2},
                 "uniques": ["Gain a free [Cathedral] in this city", "[+50]% [Happiness] [in capital]", "[+30]% Yield from every [Holy site]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
 		"requiredTech": "Plastics",
-		"quote": "'This great temple is not only a treasure of Serbia but also of the Orthodox world. Russia is honored to have contributed to its mosaics, which reflect the unity of our faith.' - Vladimir Putin"
+		"quote": "'This great temple is not only a treasure of Serbia but also of the Orthodox world. Russia is honored to have contributed to its mosaics, which reflect the unity of our faith.' - Vladimir Putin",
 	},
 	{
 		"name": "Cathedral Of Christ The Saviour",
@@ -62,7 +62,7 @@
 		"greatPersonPoints": {"Great General": 2},
                 "uniques": ["Gain a free [Cathedral] [in this city]", "Must be on [Tundra]", "[+4] Movement <for [Military] units> <in [Tundra] tiles>", "[+50]% Strength <for [Military] units> <when fighting in [Tundra] tiles>", "Heals [25] damage if it kills a unit", "Only available <when religion is enabled>"],
 		"requiredTech": "Electricity",
-		"quote": "'Pain and suffering are always inevitable for a large intelligence and a deep heart.' - Fyodor Dostoevsky"
+		"quote": "'Pain and suffering are always inevitable for a large intelligence and a deep heart.' - Fyodor Dostoevsky",
 	},
 	{
 		"name": "Mont Saint Michel",
@@ -74,7 +74,7 @@
 		"greatPersonPoints": {"Great Prophet": 1},
                 "uniques": ["Gain a free [Monastery] [in this city]", "Must be next to [Coast]", "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion", "[+70]% Strength <for [Military] units> <when defending> <in [Garrisoned] cities>", "Only available <when religion is enabled>"],
 		"requiredTech": "Education",
-		"quote": "'Church and State, Soul and Body, God and Man, are all one at Mont Saint Michel, and the business of all is to fight, each in his own way, or to stand guard for each other.' - Henry Adams"
+		"quote": "'Church and State, Soul and Body, God and Man, are all one at Mont Saint Michel, and the business of all is to fight, each in his own way, or to stand guard for each other.' - Henry Adams",
 	},
 	{
 		"name": "Saint Basil's Cathedral",
@@ -86,17 +86,17 @@
 		"greatPersonPoints": {"Great Artist": 2},
                 "uniques": ["Gain a free [Cathedral] [in this city]", "Must be on [Tundra]", "[+100]% Natural religion spread [in all cities]", "[+3 Food, +3 Production, +3 Culture] from [Tundra] tiles [in this city]", "Only available <when religion is enabled>"],
 		"requiredTech": "Acoustics",
-		"quote": "'One had a twisted design, red, on a green ground; another, all prickly angles, yellow and black; a third was ornamented with scales of blue and crimson; a fourth was in quarters like a melon.' - Katharine Blanche Guthrie"
+		"quote": "'One had a twisted design, red, on a green ground; another, all prickly angles, yellow and black; a third was ornamented with scales of blue and crimson; a fourth was in quarters like a melon.' - Katharine Blanche Guthrie",
 	},
 	{
-		"name": "",
+		"name": "Jvari Monastery",
 		"cost": 250,
 		"culture": 2,
 		"faith": 8,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
                 "uniques": ["","Free [Great Prophet] appears [in this city]","[+2 Faith] from each Trade Route","Hidden when religion is disabled","Must have an owned [Mountain] within [2] tiles"],
-		"requiredTech": "Construction",
+		"requiredTech": "Theology",
 		"quote": "'The destruction of the Bamyan Buddhas will not destroy the spirit of Buddhism - this will last forever. But the destruction of the statues will be a dark spot on the face of humanity and it is up to us to make sure that no more destruction happens.' - The Dalai Lama"
 	}
 	{
