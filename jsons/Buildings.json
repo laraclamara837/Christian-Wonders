@@ -26,7 +26,7 @@
 		"quote": "'It is the most splendid city I have ever seen, and the one which governs itself the most wisely.' - Philippe de Commines"
 	},
 	{
-	        "name": "Saint Peter Basilica",
+	        "name": "Saint Peter's Basilica",
 		"cost": 500,
 		"faith": 8,
 		"gold": 7,
@@ -52,7 +52,7 @@
 	},
 	{
 		"name": "Cathedral Of Christ The Saviour",
-		"cost": 750,
+		"cost": 900,
 		"faith": 8,
 		"gold": 8,
 		"culture": 5,
@@ -60,36 +60,36 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
 		"greatPersonPoints": {"Great General": 2},
-                "uniques": ["Gain a free [Cathedral] [in this city]", "", "Must be on [Tundra]", ],
-		"requiredTech": "Electronic",
-		"quote": "'Bolshoi Ballet is a universe of the imagination, a place of magic and enchantment, beauty and romance. Its many worlds vibrate with graceful dancers, glorious music, and sumptuous costumes.' - Trudy Garfunkel"
+                "uniques": ["Gain a free [Cathedral] [in this city]", "Must be on [Tundra]", "[+4] Movement <for [Military] units> <in [Tundra] tiles>", "[+50]% Strength <for [Military] units> <when fighting in [Tundra] tiles>", "Heals [25] damage if it kills a unit", "Only available <when religion is enabled>"],
+		"requiredTech": "Electricity",
+		"quote": "'Pain and suffering are always inevitable for a large intelligence and a deep heart.' - Fyodor Dostoevsky"
 	},
 	{
-		"name": "Mont St.Michel",
+		"name": "Mont Saint Michel",
 		"cost": 400,
-		"culture": 5,
-		"faith": 4,
-		"science": 3,
+		"culture": 8,
+		"faith": 8,
+		"science": 5,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Prophet": 1},
-                "uniques": ["Free [Great Prophet] appears [in this city]","All newly-trained [Missionary] units [in this city] receive the [Devout] promotion","Hidden when religion is disabled"],
+                "uniques": ["Gain a free [Monastery] [in this city]", "Must be next to [Coast]", "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion", "[+70]% Strength <for [Military] units> <when defending> <in [Garrisoned] cities>", "Only available <when religion is enabled>"],
 		"requiredTech": "Education",
 		"quote": "'Church and State, Soul and Body, God and Man, are all one at Mont Saint Michel, and the business of all is to fight, each in his own way, or to stand guard for each other.' - Henry Adams"
 	},
 	{
-		"name": "St. Catherine Monastery",
-		"cost": 250,
-		"culture": 3,
-		"faith": 10,
+		"name": "Saint Basil's Cathedral",
+		"cost": 500,
+		"culture": 10,
+		"faith": 8,
+		"gold": 9,
 		"isWonder": true,
-		"greatPersonPoints": {"Great Artist": 1},
-		"greatPersonPoints": {"Great Prophet": 1},
-                "uniques": ["Gain a free [Monastery] [in this city]","Must have an owned [Mountain] within [2] tiles","Hidden when religion is disabled"],
-		"requiredTech": "Philosophy",
-		"quote": "'The only place where one can go to experience the presence of God is Mount Sinai: here is where Moses received the tablets of the law, here is where the cloud rested on the Mount, here is where the fire spoke and the God of Israel was heard talking to Moses; the entire history of Israel begins at Sinai; if we seek to find God here in Sinai, what are we looking for? What we seek is the same God that Moses met on top of this mountain in the fire and the cloud. We are looking for the same God that spoke to Moses, the same God that led the people of Israel through the Red Sea and to the other side of the Jordan.' - Hans Küng"
+		"greatPersonPoints": {"Great Artist": 2},
+                "uniques": ["Gain a free [Cathedral] [in this city]", "Must be on [Tundra]", "[+100]% Natural religion spread [in all cities]", "[+3 Food, +3 Production, +3 Culture] from [Tundra] tiles [in this city]", "Only available <when religion is enabled>"],
+		"requiredTech": "Acoustics",
+		"quote": "'One had a twisted design, red, on a green ground; another, all prickly angles, yellow and black; a third was ornamented with scales of blue and crimson; a fourth was in quarters like a melon.' - Katharine Blanche Guthrie"
 	},
 	{
-		"name": "Buddha's Of Bamyan",
+		"name": "",
 		"cost": 250,
 		"culture": 2,
 		"faith": 8,
