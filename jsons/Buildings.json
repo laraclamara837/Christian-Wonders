@@ -33,7 +33,7 @@
 		"gold": 7,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
-                "uniques": ["Gain a free [Cathedral] [in this city]", "[+2 Faith] <after adopting [Piety] and [All] it's Policy's Branches>","Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
+                "uniques": ["Gain a free [Cathedral] [in this city]", "[+2 Faith] <after adopting [Piety] and [All] it's Policy's Branches>", "Double quantity of [Marble] produced <in this city>", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
 		"requiredTech": "Acoustics",
 		"quote": "'From the dome of St. Peter's one can see every notable object in Rome... He can see a panorama that is varied, extensive, beautiful to the eye, and more illustrious in history than any other in Europe.' - Mark Twain",
 	},
@@ -45,7 +45,8 @@
 		"happiness": 9,
 		"gold": 10,
 		"isWonder": true,
-		"greatPersonPoints": {"Great Engineer": 2},
+		"greatPersonPoints": {"Great Artist": 1},
+		"greatPersonPoints": {"Great Engineer": 1},
                 "uniques": ["Gain a free [Cathedral] in this city", "[+50]% [Happiness] [in capital]", "[+30]% Yield from every [Holy site]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
 		"requiredTech": "Plastics",
 		"quote": "'This great temple is not only a treasure of Serbia but also of the Orthodox world. Russia is honored to have contributed to its mosaics, which reflect the unity of our faith.' - Vladimir Putin",
@@ -72,7 +73,7 @@
 		"science": 5,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Prophet": 1},
-                "uniques": ["Gain a free [Monastery] [in this city]", "Must be next to [Coast]", "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion", "[+70]% Strength <for [Military] units> <when defending> <in [Garrisoned] cities>", "Only available <when religion is enabled>"],
+                "uniques": ["Gain a free [Monastery] [in this city]", "Must be next to [Coast]", "[+3 Gold] from [Coast] tiles [in this city]", "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion", "[+70]% Strength <for [Military] units> <when defending> <in [Garrisoned] cities>", "Only available <when religion is enabled>"],
 		"requiredTech": "Education",
 		"quote": "'Church and State, Soul and Body, God and Man, are all one at Mont Saint Michel, and the business of all is to fight, each in his own way, or to stand guard for each other.' - Henry Adams",
 	},
@@ -99,7 +100,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
 		"greatPersonPoints": {"Great Scientist": 1},
-                "uniques": ["Gain a free [Monastery] [in this city]","Must have an owned [Mountain] within [5] tiles","[+3 Faith, +2 Culture, +1 Science] from [Mountain] tiles [in this city]", "[+2 Faith] from every [Library]", "[+1 Faith, +1 Culture] per [2] population [in this city]", "Only available <when religion is enabled>"],
+                "uniques": ["Gain a free [Monastery] [in this city]", "Must have an owned [Mountain] within [5] tiles", "[+3 Faith, +2 Culture, +1 Science] from [Mountain] tiles [in this city]", "[+2 Faith] from every [Library]", "[+1 Faith, +1 Culture] per [2] population [in this city]", "Only available <when religion is enabled>"],
 		"requiredTech": "Education",
 		"quote": "'Today, the site is an impressive testament to Georgian strength and power, and a lasting monument to its history. The preservation of much of the artwork near the church is done through the Courtauld Institute of Art in conjunction with the National Agency for Cultural Heritage Preservation of Georgia and Tbilisi State Academy of Arts. It remains on the UNESCO World Heritage list and is a common location for tourists of all persuasions.' - Michael Godwin",
 	}
@@ -111,9 +112,10 @@
 		"gold": 7,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Prophet": 1},
-                "uniques": ["Gain a free [Monastery] [in this city]", "Must have an owned [Mountain] within [5] tiles", "[+4 Faith, +3 Culture] from [Mountain] tiles [in this city]", "[+4 Culture, +3 Faith] from [Hill] tiles [in this city]", "Hidden when religion is disabled"],
+		"greatPersonPoints": {"Great Engineer": 1},
+                "uniques": ["Gain a free [Monastery] [in this city]", "Must have an owned [Mountain] within [5] tiles", "[+50]% Great Person generation [in this city]", "[+4 Faith, +3 Culture] from [Mountain] tiles [in this city]", "[+4 Culture, +3 Faith] from [Hill] tiles [in this city]", "Only available <when religion is enabled>"],
 		"requiredTech": "Education",
-		"quote": "'Santa Maria del Fiore is a magnificent work of art. To see its dome, and stand within its vast interior is a humbling and moving experience. The scale and beauty of the building convey a sense of the sublime, and leave one in awe of what human beings can achieve when guided by a sense of purpose, and inspired by a vision of the divine.' - David Starkey"
+		"quote": ""
 	},
 	
 	{
