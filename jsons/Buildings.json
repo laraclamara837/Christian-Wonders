@@ -100,7 +100,7 @@
 		"greatPersonPoints": {"Great Scientist": 1},
                 "uniques": ["Gain a free [Monastery] [in this city]","Must have an owned [Mountain] within [5] tiles","[+3 Faith, +2 Culture, +1 Science] from [Mountain] tiles [in this city]", "[+2 Faith] from every [Library]", "Only available <when religion is enabled>"],
 		"requiredTech": "Education",
-		"quote": "'The destruction of the Bamyan Buddhas will not destroy the spirit of Buddhism - this will last forever. But the destruction of the statues will be a dark spot on the face of humanity and it is up to us to make sure that no more destruction happens.' - The Dalai Lama"
+		"quote": ""
 	}
 	{
 		"name": "Santa Maria Del Fiore",
