@@ -89,14 +89,17 @@
 		"quote": "'One had a twisted design, red, on a green ground; another, all prickly angles, yellow and black; a third was ornamented with scales of blue and crimson; a fourth was in quarters like a melon.' - Katharine Blanche Guthrie",
 	},
 	{
-		"name": "Jvari Monastery",
-		"cost": 250,
-		"culture": 2,
+		"name": "Vardzia",
+		"cost": 400,
+		"culture": 10,
+		"gold": 8,
 		"faith": 8,
+		"science": 4,
 		"isWonder": true,
-		"greatPersonPoints": {"Great Engineer": 1},
-                "uniques": ["","Free [Great Prophet] appears [in this city]","[+2 Faith] from each Trade Route","Hidden when religion is disabled","Must have an owned [Mountain] within [2] tiles"],
-		"requiredTech": "Theology",
+		"greatPersonPoints": {"Great Artist": 1},
+		"greatPersonPoints": {"Great Scientist": 1},
+                "uniques": ["Gain a free [Monastery] [in this city]","Must have an owned [Mountain] within [5] tiles","[+2 Faith] from each Trade Route","Hidden when religion is disabled","Must have an owned [Mountain] within [2] tiles"],
+		"requiredTech": "Education",
 		"quote": "'The destruction of the Bamyan Buddhas will not destroy the spirit of Buddhism - this will last forever. But the destruction of the statues will be a dark spot on the face of humanity and it is up to us to make sure that no more destruction happens.' - The Dalai Lama"
 	}
 	{
