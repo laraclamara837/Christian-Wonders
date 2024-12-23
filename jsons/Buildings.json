@@ -124,6 +124,7 @@
 		"culture": 13,
 		"faith": 9,
 		"happiness": 10,
+		"requiredBuilding": "Cathedral",
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
                 "uniques": ["Only available <after adopting [Treasure Fleets]>", "[+100]% Natural religion spread [in annexed cities]", "[+100]% Natural religion spread [in puppeted cities]", "Only available <when religion is enabled>"],
