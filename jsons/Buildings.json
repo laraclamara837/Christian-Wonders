@@ -119,17 +119,16 @@
 	},
 	
 	{
-		"name": "The Church of Our Lady of Athens",
-		"cost": 250,
-		"culture": 20,
-		"faith": 20,
-		"happiness": 15,
-		"science": 15,
+		"name": "Our Lady of Guadalupe",
+		"cost": 625,
+		"culture": 13,
+		"faith": 9,
+		"happiness": 10,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
-                "uniques": ["Must have an owned [Mountain] within [2] tiles","Free [Great Prophet] appears [in this city]","Hidden when religion is disabled"],
-		"requiredTech": "Philosophy",
-		"quote": "'Santa Maria delle Grazie is a treasure trove of art and history. The church is steeped in tradition and has been a center of pilgrimage and devotion in Milan for centuries. The mural 'The Last Supper' is just one of the many works of art that can be found within its walls. I was moved by the beauty and power of the painting, and by the significance of its place within the broader history of Italy and the church.' - Michelle Obama"
+                "uniques": ["Only available <after adopting [Treasure Fleets]>", "[+100]% Natural religion spread [in annexed cities]", "[+100]% Natural religion spread [in puppeted cities]", "Only available <when religion is enabled>"],
+		"requiredTech": "Navigation",
+		"quote": "'I have great hopes in your love for Christ and for men. There is a great deal to be done. Let us set out with renewed enthusiasm; united with Christ, under the motherly gaze of the Virgin, Our Lady of Guadalupe the sweet mother of priests and religious.' - Pope St. John Paul II"
 	},
 	{
 		"name": "Wat Pho",
